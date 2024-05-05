@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ishan
+- 👀 I’m interested in Programming and Building Stuff
+- 🌱 I’m currently learning MERN
+- 📫 Connect with me on Twitter - @ishanstwt and Discord - @ishantiwari
+- ⚡ Fun fact: Switching to your Pistol is faster than Reloading
